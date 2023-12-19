@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jLGZo8hixkAGtte57mZq5ahOo5xiLs1Vr/pKIh+NdMM=",
+  "Source": "PetCareConnectApi",
+  "BasePath": "_content/PetCareConnectApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

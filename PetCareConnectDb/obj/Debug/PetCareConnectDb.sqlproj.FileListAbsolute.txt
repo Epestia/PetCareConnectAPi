@@ -1,0 +1,10 @@
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\bin\Debug\PetCareConnectDb.dacpac
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\bin\Debug\PetCareConnectDb.dll
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\bin\Debug\PetCareConnectDb.pdb
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\PetCareConnectDb.sqlproj.AssemblyReference.cache
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\Model.xml
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\refactor.xml
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\postdeploy.sql
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\predeploy.sql
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\PetCareConnectDb.dll
+C:\Users\d.menegon\Desktop\PetCareConnectApi\PetCareConnectDb\obj\Debug\PetCareConnectDb.pdb

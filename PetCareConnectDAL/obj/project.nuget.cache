@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8z+fe8Ab8DIOmKd8N02QdY254q1aMb0Ru1X8+3FJbktzPFiCbt01TFSvpwEXLmmmRf4Z/AhcRuMz3CU0BJCkbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.menegon\\Desktop\\PetCareConnectApi\\PetCareConnectDAL\\PetCareConnectDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.menegon\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
